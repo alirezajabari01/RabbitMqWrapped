@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\else\\Learnings\\RabbitMqLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|e:\\else\\learnings\\rabbitmqlearning\\rabbitmqlearning\\controllers\\rabbitmqwrappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|solutionrelative:rabbitmqlearning\\controllers\\rabbitmqwrappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|e:\\else\\learnings\\rabbitmqlearning\\rabbitmqlearning\\controllers\\rabbitmqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|solutionrelative:rabbitmqlearning\\controllers\\rabbitmqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|e:\\else\\learnings\\rabbitmqlearning\\rabbitmqlearning\\rabbitservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|solutionrelative:rabbitmqlearning\\rabbitservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|e:\\else\\learnings\\rabbitmqlearning\\rabbitmqlearning\\rabbitmqwrapper\\rabbitmqmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|solutionrelative:rabbitmqlearning\\rabbitmqwrapper\\rabbitmqmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|e:\\else\\learnings\\rabbitmqlearning\\rabbitmqlearning\\rabbitmqwrapper\\irabbitmqmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9DCC1-E221-4499-8F43-96945BE76A60}|RabbitMqLearning\\RabbitMqLearning.csproj|solutionrelative:rabbitmqlearning\\rabbitmqwrapper\\irabbitmqmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqWrapperController.cs",
+              "DocumentMoniker": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\Controllers\\RabbitMqWrapperController.cs",
+              "RelativeDocumentMoniker": "RabbitMqLearning\\Controllers\\RabbitMqWrapperController.cs",
+              "ToolTip": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\Controllers\\RabbitMqWrapperController.cs",
+              "RelativeToolTip": "RabbitMqLearning\\Controllers\\RabbitMqWrapperController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:06:07.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqController.cs",
+              "DocumentMoniker": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\Controllers\\RabbitMqController.cs",
+              "RelativeDocumentMoniker": "RabbitMqLearning\\Controllers\\RabbitMqController.cs",
+              "ToolTip": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\Controllers\\RabbitMqController.cs",
+              "RelativeToolTip": "RabbitMqLearning\\Controllers\\RabbitMqController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:06:06.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "RabbitMqLearning\\RabbitServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitServiceCollectionExtensions.cs",
+              "RelativeToolTip": "RabbitMqLearning\\RabbitServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:05:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqManager.cs",
+              "DocumentMoniker": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitMqWrapper\\RabbitMqManager.cs",
+              "RelativeDocumentMoniker": "RabbitMqLearning\\RabbitMqWrapper\\RabbitMqManager.cs",
+              "ToolTip": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitMqWrapper\\RabbitMqManager.cs",
+              "RelativeToolTip": "RabbitMqLearning\\RabbitMqWrapper\\RabbitMqManager.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAEcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:04:22.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRabbitMqManager.cs",
+              "DocumentMoniker": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitMqWrapper\\IRabbitMqManager.cs",
+              "RelativeDocumentMoniker": "RabbitMqLearning\\RabbitMqWrapper\\IRabbitMqManager.cs",
+              "ToolTip": "E:\\else\\Learnings\\RabbitMqLearning\\RabbitMqLearning\\RabbitMqWrapper\\IRabbitMqManager.cs",
+              "RelativeToolTip": "RabbitMqLearning\\RabbitMqWrapper\\IRabbitMqManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:04:14.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
